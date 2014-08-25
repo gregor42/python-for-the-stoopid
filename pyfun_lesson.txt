@@ -1,0 +1,9 @@
+So what I have learned from pyfun is that, being interpreted, the order in which you define things MATTERS.
+
+You have to define something in a file prior to referencing it - as read top to bottom.
+
+This is means that circular references have to be created by adding layers.
+
+This is why people write the main executable at the BOTTOM of a python script.
+
+
