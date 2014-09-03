@@ -4,6 +4,17 @@ python-for-the-stoopid
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 
 ------
+20140903.1512
+
+So SQLLite is included in Python since 2.5?  SRSLY?
+
+Welcome to Cargo Cult Programming 101
+
+
+
+And you know.. for a book called "Learning Python" I'm starting Chapter 3 and I have only run one **Hello, World** program..?
+
+------
 20140902.2358
 
 I have been digging into *Learning Python* - the book & the persuit.
