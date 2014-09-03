@@ -4,7 +4,21 @@ python-for-the-stoopid
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 
 ------
+20140902.2358
 
+I have been digging into *Learning Python* - the book & the persuit.
+
+As usual, I chafe against the language bigotry and the mudslinging but everyone needs to justify themselves & part of that
+is always going to be distinguishing yourself from others in the form of Strongly Held and venomously defended Beliefs.
+
+Also, predictably I am still *bugging out* a little bit about the loose nautre of things.  Stuff that only a Java programmer
+could possibly care about.
+
+But the point here is specifically to *learn*.  So I check myself.
+
+And learn I have.
+
+------
 20140830.2319
 
 Today I discovered <a href="http://legacy.python.org/dev/peps/">"PEP"'s</a> - Pyhton Enhancement Proposals.
