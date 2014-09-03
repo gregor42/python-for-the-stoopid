@@ -7,3 +7,6 @@ print(2 ** 8)
 lumberjack = 'okay'
 lumberjack
 
+
+print ('Spam!' * 8)
+
