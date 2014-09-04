@@ -3,7 +3,18 @@ python-for-the-stoopid
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
-20400904.0049
+20140904.1023
+
+There needs to be more Monty Python references.
+
+I don't *care* if you think it is a "generational thing" - that's **bollocks**.  
+
+I love all kinds of stuff from previous generations.  Do I *get* 100% of the content?  No & It doesn't matter.  
+
+The 80/20 rule applies.
+
+------
+20140904.0049
 
 I don't *remember* the naming conventions - so I'm going to try to look around & see what everyone else is doing again
 I do however grok namespaces - at least in the large grain.
