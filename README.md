@@ -2,6 +2,17 @@ python-for-the-stoopid
 ======================
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
+------
+20400904.0049
+
+I don't *remember* the naming conventions - so I'm going to try to look around & see what everyone else is doing again
+I do however grok namespaces - at least in the large grain.
+
+Once again, like everything else in the language, the approach to it strikes me as extremely *relaxed*.
+
+I have been writing a lot of tiny scripts to try things out as I go.
+
+I have to keep stopping myself from putting a semicolon at the end of each line.  It still feels wrong.
 
 ------
 20140903.1512
