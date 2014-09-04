@@ -3,6 +3,19 @@ python-for-the-stoopid
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
+20140904.1131
+
+Zarquon's-see-through-sandals IDLE is a piece of rubbish!
+
+I can see why it exists - from a purely *academic* point of view - pun intended.  You want students to work with such basic crap that they outgrow it almost instantly..  But wow - talk about painful!
+
+The code completion is so slow (on a modern multi-core desktop) as to be completely unusable.
+
+I have opted for a purpose-built EasyEclipse IDE which seems to behave a bit more reasonably - but then am I just more comfortable because I have used Eclipse before?  I doubt others would find it so familiar nor inviting.
+
+Why do developer tools have to look like such budget store garbage?  Don't we have any sense of pride?
+
+------
 20140904.1023
 
 There needs to be more Monty Python references.
