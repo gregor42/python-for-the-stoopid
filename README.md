@@ -3,6 +3,15 @@ python-for-the-stoopid
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
+20140904.2124
+
+PyDev on Eclipse.  That's the one.
+
+I find my chouces are constrained severely by the fact that I'm running Snow Leopard.  It is amazing how long a Windows or Linux build will remain viable & supported ***even by Apple*** but an aging OS/X rev bearer can basically go eat shit.  :sigh: 
+
+But I'm off-topic right?  meh
+
+------
 20140904.1131
 
 Zarquon's-see-through-sandals IDLE is a piece of rubbish!
