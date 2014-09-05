@@ -2,11 +2,10 @@
 
 import sys
 
-print(sys.platform)
+print('Platform:  '+ sys.platform) 
 print
-print
+print('Path:  ')
 print(sys.path)
-
+print
 print('done.')
-
 
