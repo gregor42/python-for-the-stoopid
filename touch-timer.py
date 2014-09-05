@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 
 print('now:')
-`date`
+#print (`date`)
 
 print;
 print("Done.")
