@@ -3,7 +3,46 @@ python-for-the-stoopid
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
-20400904.0049
+20140904.2149
+
+IDLE.. it is called IDLE... it is not "***IDEA***"
+
+*That* is something else entirely...  ::slaps-own-face::
+
+20140904.2124
+
+PyDev on Eclipse.  That's the one.
+
+I find my chouces are constrained severely by the fact that I'm running Snow Leopard.  It is amazing how long a Windows or Linux build will remain viable & supported ***even by Apple*** but an aging OS/X rev bearer can basically go eat shit.  :sigh: 
+
+But I'm off-topic right?  meh
+
+------
+20140904.1131
+
+Zarquon's-see-through-sandals IDLE is a piece of rubbish!
+
+I can see why it exists - from a purely *academic* point of view - pun intended.  You want students to work with such basic crap that they outgrow it almost instantly..  But wow - talk about painful!
+
+The code completion is so slow (on a modern multi-core desktop) as to be completely unusable.
+
+I have opted for a purpose-built EasyEclipse IDE which seems to behave a bit more reasonably - but then am I just more comfortable because I have used Eclipse before?  I doubt others would find it so familiar nor inviting.
+
+Why do developer tools have to look like such budget store garbage?  Don't we have any sense of pride?
+
+------
+20140904.1023
+
+There needs to be more Monty Python references.
+
+I don't *care* if you think it is a "generational thing" - that's **bollocks**.  
+
+I love all kinds of stuff from previous generations.  Do I *get* 100% of the content?  No & It doesn't matter.  
+
+The 80/20 rule applies.
+
+------
+20140904.0049
 
 I don't *remember* the naming conventions - so I'm going to try to look around & see what everyone else is doing again
 I do however grok namespaces - at least in the large grain.
