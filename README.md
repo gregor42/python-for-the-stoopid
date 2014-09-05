@@ -3,6 +3,12 @@ python-for-the-stoopid
 
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
+20140904.2149
+
+IDLE.. it is called IDLE... it is not "***IDEA***"
+
+*That* is something else entirely...  ::slaps-own-face::
+
 20140904.2124
 
 PyDev on Eclipse.  That's the one.
