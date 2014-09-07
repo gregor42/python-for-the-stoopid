@@ -23,7 +23,7 @@ But I'm off-topic right?  meh
 ------
 20140904.1131
 
-Zarquon's-see-through-sandals IDLE is a piece of rubbish!
+Zarquon's-see-through-sandals IDLE is a piece of rubbish!  Even on a multi-core system it is unforgivably slow.
 
 I can see why it exists - from a purely *academic* point of view - pun intended.  You want students to work with such basic crap that they outgrow it almost instantly..  But wow - talk about painful!
 
