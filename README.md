@@ -4,6 +4,14 @@ python-for-the-stoopid
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
 
+20140908.0849
+
+More learning!
+
+Namespaces are collections of (name, object reference) pairs (implemented using dictionaries).
+
+------
+
 20140904.2149
 
 IDLE.. it is called IDLE... it is not "***IDEA***"
@@ -18,8 +26,6 @@ I find my chouces are constrained severely by the fact that I'm running Snow Leo
 
 But I'm off-topic right?  meh
 
--
-7
 ------
 20140904.1131
 
