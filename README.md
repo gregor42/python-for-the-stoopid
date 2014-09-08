@@ -4,6 +4,16 @@ python-for-the-stoopid
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
 
+20140908.1538
+
+From a more concrete perspective, Python programs can be decomposed into modules, statements, expressions, and objects, as follows: 
+1. Programs are composed of modules. 2. Modules contain statements.
+3. Statements contain expressions.
+4. Expressions create and process objects. 
+
+
+------
+
 20140908.0849
 
 More learning!
