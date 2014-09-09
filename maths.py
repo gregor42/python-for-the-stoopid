@@ -1,5 +1,6 @@
 #!/usr/local/bin/python
 
+import math
 
 n1 = 1234
 n2 = 3.1415
@@ -19,4 +20,14 @@ print n4
 
 #print n5
 #print n6
+
+print math.pi
+
+n7 = math.sqrt(85)
+
+print n7
+
+
+
+print 'Done.'
 
