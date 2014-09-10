@@ -1,6 +1,7 @@
 #!/usr/local/bin/python
 
 import os
+import random
 
 print('whoami? ')
 print(os.getlogin())
@@ -22,6 +23,14 @@ print s1[::-1]
 s2 = s1.replace('d.','yacious!')[::-1]
 
 print s2
+
+
+l1 = [1,2,3,4,5,6,7,10,42,420,42000,8999,9000,9001]
+l2 = [random.random(),random.random(),random.random()]
+
+print l1
+print l2
+
 
 print 'Done.'
 
