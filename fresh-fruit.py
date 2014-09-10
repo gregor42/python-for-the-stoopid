@@ -10,6 +10,9 @@ import randy
 # this doesn't work because of the '-' character:
 #import pointed-stick
 
+#but underscores are no problem!  Time to re-read the naming conventions
+import hello_world
+
 print "import complete."
 print line
 
