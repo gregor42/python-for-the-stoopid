@@ -2,22 +2,15 @@
 #
 #  templ8.py - meant to be used as a starting point for Python files
 #
-#
+import pri
+
 # Say hello to the Nice People
-print "Start."
-
-
-
+pri.nt("Start.")
 
 
 # Your code here
 
 
-
-
-
-
-
-print "Done."
+pri.nt("Done.")
 
 
