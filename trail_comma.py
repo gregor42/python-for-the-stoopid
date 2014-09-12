@@ -27,7 +27,8 @@ pri.nt(l2[2])
 #this will fail
 #pri.nt(l1[8])
 
-pri.nt(pri.line)
+pri.bar()
+#pri.nt(pri.line)
 pri.nt("Done.")
 
 

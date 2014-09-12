@@ -10,3 +10,6 @@ def nt(somestr):
 
 
 line = ("-=" * 39)+"-"
+
+def bar():
+  nt(line)
