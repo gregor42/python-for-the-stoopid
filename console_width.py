@@ -6,13 +6,13 @@
 import pri
 # Say hello to the Nice People
 pri.nt("Start.")
-
-pri.nt(('1234567890' * 8))
+pri.bar()
 
 pri.nt(((' '*9)+('1'*10)+('2'*10)+('3'*10)+('4'*10)+('5'*10)+('6'*10)+('7'*10)+'8'))
 
+pri.nt(('1234567890' * 8))
 
-
+pri.bar()
 print "Done."
 
 
