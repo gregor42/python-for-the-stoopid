@@ -5,10 +5,13 @@
 #
 
 def nt(somestr):
+  print str(somestr)
+
+def ntc(somestr):
   print str(somestr).center(80)
 
 
 line = ("-=" * 39)+"-"
 
 def bar():
-  nt(line)
+  ntc(line)

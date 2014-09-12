@@ -5,12 +5,12 @@
 import pri
 
 # Say hello to the Nice People
-pri.nt("Start.")
-
+pri.ntc("Start.")
+pri.bar()
 
 # Your code here
 
-
-pri.nt("Done.")
+pri.bar()
+pri.ntc("Done.")
 
 
