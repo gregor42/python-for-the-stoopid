@@ -9,3 +9,4 @@ def nt(somestr):
   print str(somestr).center(80)
 
 
+line = ("-=" * 39)+"-"
