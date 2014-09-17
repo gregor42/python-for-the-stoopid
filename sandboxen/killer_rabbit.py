@@ -5,7 +5,8 @@
 import pri
 
 # Say hello to the Nice People
-pri.nt("Start.")
+pri.nt("Start: killer_rabbit.py:")
+pri.bar()
 
 line = (('-='*39)+'-').center(80)
 

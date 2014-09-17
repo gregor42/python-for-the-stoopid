@@ -3,12 +3,16 @@
 #  a_shrubbery - this is a properly screwy sandbox
 #
 # Say hello to the Nice People
+import pri
+
 print "Start."
+pri.bar()
+pri.ntc("a_shrubbery.py:")
+pri.bar()
 
 import sys 
 import re
 import fib
-import pri
 
 line = (('-='*39)+'-').center(80)
 n=4
