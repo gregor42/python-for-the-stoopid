@@ -4,6 +4,21 @@ python-for-the-stoopid
 I know perl &amp; java - not Python - but you gotta start somewhere; join me in my idiotic baby-steps to usefulness
 ------
 
+Here's an interesting bit that I picked up:
+
+>>> NewType = type("NewType", (object,), {"x": "hello"})
+>>> n = NewType()
+>>> n.x
+"hello"
+
+which is exactly the same as
+
+>>> class NewType(object):
+>>>     x = "hello"
+>>> n = NewType()
+>>> n.x
+"hello"
+
 20140908.1538
 
 From a more concrete perspective, Python programs can be decomposed into modules, statements, expressions, and objects, as follows: 
