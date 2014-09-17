@@ -4,8 +4,10 @@
 #
 import pri
 
+filename = 'templ8.py'
+
 # Say hello to the Nice People
-pri.ntc("Start.")
+pri.ntc(filename + " : Start.")
 pri.bar()
 
 # Your code here

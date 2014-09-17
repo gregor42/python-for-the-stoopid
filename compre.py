@@ -4,8 +4,9 @@
 #
 import pri
 
+filename = 'compre.py'
 # Say hello to the Nice People
-pri.ntc("Start.")
+pri.ntc(filename + " : Start.")
 pri.bar()
 
 M = [[1, 2, 3],

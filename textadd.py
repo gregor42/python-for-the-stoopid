@@ -1,4 +1,9 @@
 #!/usr/local/bin/python
+import pri
+
+filename = 'textadd.py'
+pri.ntc(filename + " : Start.")
+pri.bar()
 
 a = 'Hello'
 b = 'World'
@@ -8,6 +13,7 @@ s = ' '
 
 print(a+c+s+b+'!')
 
+pri.bar()
 print('Done.')
 
 
