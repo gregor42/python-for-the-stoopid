@@ -1,6 +1,12 @@
 #!/usr/bin/python
 # A system information Gathering script
 import subprocess
+import pri
+
+filename = 'page14.py'
+# Say hello to the Nice People
+pri.ntc(filename + " : Start.")
+pri.bar()
 
 def uname_fun():
 
@@ -22,6 +28,8 @@ def main():
 
 if __name__ == "__main__":
   main()
+  pri.bar()
+  pri.ntc("Done.")
 
 
 
