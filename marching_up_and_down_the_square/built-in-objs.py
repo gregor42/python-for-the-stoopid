@@ -1,5 +1,11 @@
 #!/usr/local/bin/python
 
+import pri
+
+filename = 'built-in-objs.py'
+# Say hello to the Nice People
+pri.ntc(filename + " : Start.")
+pri.bar()
 
 n1 = 1234
 n2 = 3.1415
