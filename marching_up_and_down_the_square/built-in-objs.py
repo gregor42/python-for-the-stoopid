@@ -61,3 +61,5 @@ b2 = False
 print b1
 print b2
 
+pri.bar()
+pri.ntc("Done.")
