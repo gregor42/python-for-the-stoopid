@@ -1,2 +1,12 @@
 #!/usr/local/bin/python
-print('The Bright Side ' + 'of Life...')
+import pri
+
+filename = "brian"
+pri.ntc(filename + " : Start")
+pri.bar()
+
+pri.ntc('The Bright Side ' + 'of Life...')
+
+
+pri.bar()
+pri.ntc("Done.");
