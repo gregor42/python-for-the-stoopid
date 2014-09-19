@@ -2,6 +2,12 @@
 
 import os
 import random
+import pri 
+    
+filename = 'pointed-stick.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 print('whoami? ')
 print(os.getlogin())
@@ -32,6 +38,6 @@ print l1
 print l2
 
 
-print 'Done.'
-
+pri.bar()
+pri.ntc("Done.")
 

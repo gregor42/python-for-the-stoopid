@@ -18,6 +18,7 @@ pri.nt('%s, eggs, and %s' % ('spam', 'SPAM!'))
 
 pri.nt(line)
 
+pri.bar()
 pri.nt("Done.")
 
 

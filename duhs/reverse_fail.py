@@ -5,6 +5,12 @@
 # by a negative number then the string might be reversed.
 # ::shrug::
 # gregor42@mail.com
+import pri 
+    
+filename = 'reverse_fail.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 seq1 = '0123456789'
 seq2 = '|=--.----'
@@ -22,5 +28,6 @@ print(seq4)
 print
 print(seq5)
 print
+pri.bar()
 print('done.')
 

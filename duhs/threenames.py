@@ -1,4 +1,10 @@
 #!/usr/local/bin/python
+import pri 
+    
+filename = 'threenames.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 a = 'dead'
 b = 'parrot'
@@ -10,4 +16,5 @@ c = 'sketch'
 #This is the python 2.x way:
 print a, b, c
 
-
+pri.bar()
+pri.ntc("Done.")

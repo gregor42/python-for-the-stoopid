@@ -1,6 +1,12 @@
 #!/usr/local/bin/python
 
 import math
+import pri 
+    
+filename = 'maths.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 n1 = 1234
 n2 = 3.1415
@@ -28,6 +34,6 @@ n7 = math.sqrt(85)
 print n7
 
 
-
-print 'Done.'
+pri.bar()
+pri.ntc('Done.')
 

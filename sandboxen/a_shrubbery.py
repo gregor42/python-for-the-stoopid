@@ -3,11 +3,11 @@
 #  a_shrubbery - this is a properly screwy sandbox
 #
 # Say hello to the Nice People
-import pri
-
-print "Start."
-pri.bar()
-pri.ntc("a_shrubbery.py:")
+import pri 
+    
+filename = 'a_shrubbery.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
 pri.bar()
 
 import sys 
@@ -48,6 +48,7 @@ print line
 
 pri.nt(rep)
 pri.nt(line)
+pri.bar()
 pri.nt("Done.")
 
 

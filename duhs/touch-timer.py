@@ -7,12 +7,19 @@
 #
 # Eventually I will actually write the process timer that I want
 #
+import pri 
+    
+filename = 'touch-timer.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 
 print('now:')
 #print (`date`)
 
-print;
+print
+pri.bar()
 print("Done.")
 
 

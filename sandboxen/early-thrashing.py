@@ -1,10 +1,12 @@
 #!/usr/local/bin/python
 
 import sys
-import pri
-
-pri.ntc("Start: early-thrashing.py")
-pri.bar() 
+import pri 
+    
+filename = 'console_width.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 print(sys)
 line = '-=-=-=-'
