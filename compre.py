@@ -3,6 +3,7 @@
 # compre.py - I need to learn about comprehensions
 #
 import pri
+import fib
 
 filename = 'compre.py'
 # Say hello to the Nice People
@@ -25,6 +26,14 @@ pri.bar()
 col = [row[1] for row in M]
 pri.ntc(col)
 pri.bar()
+
+squares = [x ** 2 for x in range(5)]
+pri.ntc(squares)
+pri.bar()
+
+sqli = [y ** 64 for y in fib.flist(42)]
+pri.ntc(sqli)
+
 
 pri.bar()
 pri.ntc("Done.")
