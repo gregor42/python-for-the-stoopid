@@ -1,4 +1,10 @@
 #!/usr/local/bin/python
+import pri 
+    
+filename = 'fresh-fruit.py'
+# Say hello to the Nice People
+pri.nt(filename + " : Start.")
+pri.bar()
 
 line =  "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
 print line
@@ -42,6 +48,6 @@ print line
 li = those.split(',')
 print li
 print line
-
-print 'Done.'
+pri.bar()
+pri.ntc('Done.')
 
