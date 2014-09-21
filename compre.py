@@ -34,6 +34,14 @@ pri.bar()
 sqli = [y ** 64 for y in fib.flist(42)]
 pri.ntc(sqli)
 
+pri.bar()
+
+sq = []
+for x in [1,2,3,4,5]:
+    sq.append(x ** 2)
+
+pri.ntc(sq)
+
 
 pri.bar()
 pri.ntc("Done.")
