@@ -116,7 +116,7 @@ And learn I have.
 ------
 20140830.2319
 
-Today I discovered <a href="http://legacy.python.org/dev/peps/">"PEP"'s</a> - Pyhton Enhancement Proposals.
+Today I discovered <a href="http://legacy.python.org/dev/peps/">"PEP"'s</a> - Python Enhancement Proposals.
 
 I read <a href="http://legacy.python.org/dev/peps/pep-0008/">PEP8 - The Style Guide for Python code</a>.
 
