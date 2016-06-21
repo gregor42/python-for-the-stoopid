@@ -47,7 +47,7 @@ IDLE.. it is called IDLE... it is not "***IDEA***"
 
 PyDev on Eclipse.  That's the one.
 
-I find my chouces are constrained severely by the fact that I'm running Snow Leopard.  It is amazing how long a Windows or Linux build will remain viable & supported ***even by Apple*** but an aging OS/X rev bearer can basically go eat shit.  :sigh: 
+I find my choices are constrained severely by the fact that I'm running Snow Leopard.  It is amazing how long a Windows or Linux build will remain viable & supported ***even by Apple*** but an aging OS/X rev bearer can basically go eat shit.  :sigh: 
 
 But I'm off-topic right?  meh
 
